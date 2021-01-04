@@ -5,7 +5,7 @@ This is a project I worked on in the cybersecurity bootcamp where several resour
 
 The files in this repository were used to configure the network depicted below.
 
-![alt text](https://github.com/clayjoseph1994/Cybersecurity_Bootcamp/ELK_Stack_Project/blob/master/Images/ELK_Stack_TopologyDetails.png) 
+![alt text](https://github.com/clayjoseph1994/Cybersecurity_Bootcamp/blob/main/ELK_Stack_Project/Images/ELK_Stack_TopologyDetails.png) 
 
 [NOTE: the network diagram has differing IP addresses from the ones Azure assigned me by default]
 
