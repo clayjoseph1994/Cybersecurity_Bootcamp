@@ -4,3 +4,6 @@
 [submodule "unccclt20190715cyber"]
 	path = unccclt20190715cyber
 	url = https://unchar.bootcampcontent.com/The-Coding-Bootcamp/UNCCCLT20190715CYBER
+[submodule "UNCCCLT20190715CYBER"]
+	path = UNCCCLT20190715CYBER
+	url = https://unchar.bootcampcontent.com/The-Coding-Bootcamp/UNCCCLT20190715CYBER
