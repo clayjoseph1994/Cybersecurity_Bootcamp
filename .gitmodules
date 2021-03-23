@@ -1,0 +1,6 @@
+[submodule "cybersecurity-v2"]
+	path = cybersecurity-v2
+	url = https://github.com/coding-boot-camp/cybersecurity-v2
+[submodule "unccclt20190715cyber"]
+	path = unccclt20190715cyber
+	url = https://unchar.bootcampcontent.com/The-Coding-Bootcamp/UNCCCLT20190715CYBER
